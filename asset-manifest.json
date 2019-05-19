@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.c465803a.chunk.css",
-    "main.js": "/static/js/main.d5b17786.chunk.js",
-    "main.js.map": "/static/js/main.d5b17786.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.0062d2de.chunk.js": "/static/js/2.0062d2de.chunk.js",
-    "static/js/2.0062d2de.chunk.js.map": "/static/js/2.0062d2de.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a78193dce439a41ee5496b533bc44af4.js": "/precache-manifest.a78193dce439a41ee5496b533bc44af4.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.c465803a.chunk.css.map": "/static/css/main.c465803a.chunk.css.map"
+    "main.css": "/airfunder/static/css/main.c465803a.chunk.css",
+    "main.js": "/airfunder/static/js/main.68afbbec.chunk.js",
+    "main.js.map": "/airfunder/static/js/main.68afbbec.chunk.js.map",
+    "runtime~main.js": "/airfunder/static/js/runtime~main.555d0eaf.js",
+    "runtime~main.js.map": "/airfunder/static/js/runtime~main.555d0eaf.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/airfunder/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.b6964195.chunk.js": "/airfunder/static/js/2.b6964195.chunk.js",
+    "static/js/2.b6964195.chunk.js.map": "/airfunder/static/js/2.b6964195.chunk.js.map",
+    "index.html": "/airfunder/index.html",
+    "precache-manifest.8eb4a11368dd7e2d265773ffb61954c4.js": "/airfunder/precache-manifest.8eb4a11368dd7e2d265773ffb61954c4.js",
+    "service-worker.js": "/airfunder/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/airfunder/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.c465803a.chunk.css.map": "/airfunder/static/css/main.c465803a.chunk.css.map"
   }
 }
